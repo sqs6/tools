@@ -1,0 +1,31 @@
+# 编译产物
+*.obj
+*.o
+*.exe
+*.pdb
+*.ilk
+*.idb
+*.lib
+*.dll
+*.exp
+
+# VS / 编辑器
+.vs/
+*.user
+*.suo
+x64/
+x86/
+Debug/
+Release/
+.idea/
+.vscode/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# 系统
+Thumbs.db
+.DS_Store
