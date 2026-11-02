@@ -29,3 +29,11 @@ venv/
 # 系统
 Thumbs.db
 .DS_Store
+
+# 密钥 / 本地环境变量
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+secrets/
